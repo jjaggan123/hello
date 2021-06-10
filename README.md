@@ -1,4 +1,4 @@
-# hello
+포아송 분포
 just another rep
 
 
